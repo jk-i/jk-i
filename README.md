@@ -1,9 +1,8 @@
-<h1 align="center">code ♡ design</h1>
+<h1 align="center">code❤design</h1>
   <p align="center">
   hi, i'm jk. <br>
   i'm a software engineer.
   </p>
-<h2 align="center">Connect<h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/jk-/"><img src="https://img.shields.io/badge/LinkedIn-jk---%230A66C2?style=for-the-badge&logo=LinkedIn" /></a>
     <a href="https://twitter.com/jk_imgs"><img src="https://img.shields.io/badge/Twitter-jk--imgs-%231DA1F2?style=for-the-badge&logo=twitter" /></a>
