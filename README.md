@@ -1,12 +1,15 @@
-<h1 align="center">code❤design</h1>
-  <p align="center">
-  hi, i'm jk. <br>
-  i'm a software engineer.
-  </p>
-  <p align="center">
+<p align="center">
     <a href="https://www.linkedin.com/in/jk-/"><img src="https://img.shields.io/badge/LinkedIn-jk---%230A66C2?style=for-the-badge&logo=LinkedIn" /></a>
-    <a href="https://twitter.com/jk_imgs"><img src="https://img.shields.io/badge/Twitter-jk--imgs-%231DA1F2?style=for-the-badge&logo=twitter" /></a>
-  </p>
+    <a href="https://twitter.com/jki_dev"><img src="https://img.shields.io/badge/Twitter-jki__dev-%231DA1F2?style=for-the-badge&logo=twitter" /></a>
+</p>
+<h1 align="center">hi, i'm jk.</h1>
+<p align="center">
+  I'm passionate about building user-centered websites while being mindful of responsive design.
+  <br>
+  <br>
+  code❤design
+</p>
+  
 <!--
 **jk-i/jk-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
