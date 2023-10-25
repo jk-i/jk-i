@@ -2,12 +2,13 @@
     <a href="https://www.linkedin.com/in/jk-/"><img src="https://img.shields.io/badge/LinkedIn-jk---%230A66C2?style=for-the-badge&logo=LinkedIn" /></a>
     <a href="https://twitter.com/jki_dev"><img src="https://img.shields.io/badge/Twitter-jki__dev-%231DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
-<h1 align="center">hi, i'm jk.</h1>
 <p align="center">
+  hi, i'm jk.
+   <br>
   I'm passionate about building user-centered websites while being mindful of responsive design.
-  <br>
-  <br>
-  code❤design
+   <br>
+   <br>
+  code❤web
 </p>
   
 <!--
