@@ -5,7 +5,7 @@
 <p align="center">
   hi, i'm jk.
    <br>
-  I'm passionate about building user-centered websites while being mindful of responsive design.
+  I enjoy building user-centered websites while being mindful of responsive design.
    <br>
    <br>
   code❤web
